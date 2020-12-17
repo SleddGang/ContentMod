@@ -1,0 +1,3 @@
+displayName = Content Mod
+author = SleddGang
+version = 0.1
