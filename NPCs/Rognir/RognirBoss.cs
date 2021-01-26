@@ -4,10 +4,10 @@ using System.IO;
 using Terraria;
 using Terraria.ID;
 using Terraria.ModLoader;
-using ContentMod.Projectiles.Rognir;
+using Void.Projectiles.Rognir;
 using static Terraria.ModLoader.ModContent;
 
-namespace ContentMod.NPCs.Rognir
+namespace Void.NPCs.Rognir
 {
 	/// <summary>
 	/// Class Rognir is the base class of the Rognir boss. 

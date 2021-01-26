@@ -5,7 +5,7 @@ using Terraria.ID;
 using Terraria.ModLoader;
 using Terraria.ModLoader.IO;
 
-namespace ContentMod
+namespace Void
 {
     class VoidWorld : ModWorld
     {

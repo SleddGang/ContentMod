@@ -4,7 +4,7 @@ using Terraria.ID;
 using Terraria.ModLoader;
 using static Terraria.ModLoader.ModContent;
 
-namespace ContentMod.Items
+namespace Void.Items
 {
     /* Boss drop from Rognir. Pickaxe that creates a chilling aura, slowing enemies within a certain radius of the player.
      * The effect only occurs while the player is actively using the pickaxe.*/

@@ -4,7 +4,7 @@ using Terraria;
 using Terraria.ID;
 using Terraria.ModLoader;
 
-namespace ContentMod.Projectiles.Rognir
+namespace Void.Projectiles.Rognir
 {
     class RognirBossIceShard : ModProjectile
     {

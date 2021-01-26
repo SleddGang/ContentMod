@@ -2,7 +2,7 @@
 using Terraria.ID;
 using Terraria.ModLoader;
 
-namespace ContentMod.Items
+namespace Void.Items
 {
     class VikingCrown : ModItem
     {
