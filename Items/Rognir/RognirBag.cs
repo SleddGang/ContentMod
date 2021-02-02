@@ -3,7 +3,7 @@ using Terraria.ModLoader;
 using Terraria.ID;
 using static Terraria.ModLoader.ModContent;
 
-namespace ContentMod.Items.Rognir
+namespace Void.Items.Rognir
 {
     public class RognirBag : ModItem
     {

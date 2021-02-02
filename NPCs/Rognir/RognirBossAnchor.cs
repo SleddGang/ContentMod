@@ -6,7 +6,7 @@ using Terraria.ID;
 using Terraria.ModLoader;
 using static Terraria.ModLoader.ModContent;
 
-namespace ContentMod.NPCs.Rognir
+namespace Void.NPCs.Rognir
 {
 	/// <summary>
 	/// <c>RognirBossAnchor</c> is the anchor that spawns in Rognir's phase two.

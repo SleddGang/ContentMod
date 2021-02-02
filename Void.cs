@@ -2,9 +2,9 @@ using System;
 using System.Collections.Generic;
 using Terraria.ModLoader;
 
-namespace ContentMod
+namespace Void
 {
-	public class ContentMod : Mod
+	public class Void : Mod
 	{
 
 		public override void PostSetupContent()

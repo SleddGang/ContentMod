@@ -1,7 +1,7 @@
 ﻿using Terraria;
 using Terraria.ModLoader;
 
-namespace ContentMod.Buffs
+namespace Void.Buffs
 {
     class Anchored : ModBuff
     {

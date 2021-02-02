@@ -4,7 +4,7 @@ using Terraria.ModLoader;
 using static Terraria.ModLoader.ModContent;
 
 
-namespace ContentMod.Items.Rognir
+namespace Void.Items.Rognir
 {
     class FrozenCrown : ModItem
 	{
@@ -37,10 +37,10 @@ namespace ContentMod.Items.Rognir
 			item.width = 20;
 			item.height = 20;
 			item.maxStack = 20;
-			item.rare = 9;
+			item.rare = ItemRarityID.Cyan;
 			item.useTime = 45;
 			item.useAnimation = 45;
-			item.useStyle = 4;
+			item.useStyle = ItemUseStyleID.HoldingUp;
 			item.UseSound = SoundID.Item44;
 			item.consumable = true;
 		}

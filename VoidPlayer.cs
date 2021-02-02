@@ -3,7 +3,7 @@ using Terraria;
 using Terraria.ID;
 using Terraria.ModLoader;
 
-namespace ContentMod
+namespace Void
 {
     class VoidPlayer : ModPlayer
     {

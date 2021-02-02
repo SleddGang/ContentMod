@@ -7,7 +7,7 @@ using Terraria.ModLoader;
 using static Terraria.ModLoader.ModContent;
 using Terraria.ID;
 
-namespace ContentMod.Items
+namespace Void.Items
 {
 	/* The internal class that defines the stats of the Frozen Hook grappling hook item and
 	   establishes the hook projectile that this grappling hook shoots*/

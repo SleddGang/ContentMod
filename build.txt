@@ -1,3 +1,3 @@
-displayName = Content Mod
+displayName = Void
 author = SleddGang
 version = 0.1

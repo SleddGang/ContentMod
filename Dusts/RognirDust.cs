@@ -2,7 +2,7 @@ using Microsoft.Xna.Framework;
 using Terraria;
 using Terraria.ModLoader;
 
-namespace ContentMod.Dusts
+namespace Void.Dusts
 {
 	public class RognirDust : ModDust
 	{
